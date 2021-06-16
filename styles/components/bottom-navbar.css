@@ -20,6 +20,9 @@
   margin-top: 2px;
 }
 
+.bottom-navbar__text--active {
+  color: #fff;
+}
 .bottom-navbar__icon {
   text-align: center;
 }
